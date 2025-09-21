@@ -1,4 +1,4 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-ZooSimulation zooSimulation = new ZooSimulation();
+ZooSimulation zooSimulation = new();
 zooSimulation.Run();
