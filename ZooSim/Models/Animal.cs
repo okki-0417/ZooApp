@@ -1,4 +1,5 @@
-class Animal
+namespace ZooSim.ZooSim.Models;
+public class Animal
 {
   const int MaximumNameLength = 255;
   public string Name { get; }

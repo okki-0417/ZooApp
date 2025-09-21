@@ -1,4 +1,5 @@
-class AnimalSeller
+namespace ZooSim.ZooSim.Models;
+public class AnimalSeller
 {
   public string Name { get;}
   public List<BuyableAnimal> BuyableAnimals = [];
